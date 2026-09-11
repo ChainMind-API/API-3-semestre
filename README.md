@@ -66,8 +66,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 30/09/2026 | Em Andamento | [MVP](MVP/sp1.md)  |
+| 02                | 28/10/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 25/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
 
