@@ -40,12 +40,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
+* Microsoft Word
 * WhatsApp
 * Python (Colab)
   
-
-
-
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
