@@ -1,6 +1,6 @@
-# Aprendizado por Projeto Integrado (API)
+# Aprendizado por Projeto Integrado - ChainMind 3° Semestre (API)
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Desenvolver uma solução fundamentada em Pesquisa Operacional para otimizar o planejamento das equipes de fiscalização do IPEM-SP com base no histórico de inspeções.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -11,9 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (API) do curso de Logística da Fatec SJC, voltado para atender a uma demanda do IPEM-SP (Instituto de Pesos e Medidas do Estado de São Paulo).  Em termos simples, o objetivo do projeto é otimizar as rotas e viagens que as equipes de fiscalização do IPEM fazem no dia a dia.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
