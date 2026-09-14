@@ -45,16 +45,16 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário analise cenários de balanceamento de equipes e otimização de rotas com base nos pontos críticos identificados.  
+- O sistema deve registrar cenários de balanceamento gerados.  
+- Métricas coletadas: Frequência de uso do dashboard e variação no tempo de planejamento de rotas.  
 
 ---
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- % de redução do tempo de tratamento de dados e % de aumento na eficiência da cobertura de fiscalização.  
 
 ---
 
