@@ -39,8 +39,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     |Como coordenador de desenvolvimento, quero a otimização dos dados filtrados. a fim de reduzir os custos de tempo, distância e potencial carga horária dos fiscais e motoristas.  | A fazer|
+| 02     | Como coordenador de desenvolvimento, quero que a interface da plataforma de BI seja limpa, clara e objetiva | A fazer |
 
 ---
 
