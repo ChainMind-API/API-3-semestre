@@ -1,32 +1,38 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> O MVP visa otimizar as fiscalizações tratando dados em Python para exibir os pontos críticos no Power BI, permitindo o balanceamento ideal de equipes e rotas.
+  
+- Qual problema resolve? Lida com a falta de previsibilidade e visibilidade sobre os locais que exigem maior esforço de fiscalização, permitindo a otimização no alocamento de recursos e no planejamento de rotas/equipes.
+    
+- Qual hipótese será validada? A hipótese de que a filtragem automatizada dos dados aliada a um painel de BI intuitivo permite identificar com precisão os pontos críticos de fiscalização, viabilizando um balanceamento mais eficiente de equipes e rotas.
+    
+- Qual valor será entregue ao usuário final? Agilidade no tratamento de dados e tomada de decisão estratégica baseada em visualizações claras, garantindo melhor distribuição de equipes e cobertura de fiscalização nas rotas mais demandadas.  
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Desenvolvimento de um pipeline de dados em Python integrado a um painel no Power BI para filtrar a base de dados, mapear os pontos críticos de fiscalização e subsidiar o balanceamento de equipes e rotas.
+  
+- Funcionalidades principais incluídas: Filtragem de dados em Python, dashboard interativo no Power BI e suporte ao balanceamento de equipes/rotas.
+    
+- Limitações conhecidas: Atualização dependente de execução dos scripts e análises restritas aos dados mapeados.
+    
+- Escopo reduzido: Foco estrito no tratamento de dados, visualização dos gargalos e análise de balanceamento.  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Persona 1:** Coordenador de Desenvolvimento: Precisa de dados limpos e visualizações claras em Power BI para identificar gargalos de fiscalização e otimizar a alocação de equipes e rotas.  
+- **Persona 2:** Analista / Supervisor de Operações Logísticas: Responsável pelo planejamento de campo; necessita das análises de balanceamento para combater a falta de previsibilidade, otimizando escalas e rotas conforme a demanda real de fiscalização.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como coordenador de desenvolvimento, quero que seja feita uma filtragem dos itens a serem utilizados da Base de Dados através da Linguagem Phyton.         | Altíssima  | 6   |
+| US2 | Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI.         | Alta     | 4  |
+| US3 | Como coordenador de desenvolvimento, quero uma análise de possíveis balanceamentos de equipes e de rotas, utilizando de base, os pontos de maior demanda.                                                                            | Alta  | 3  |
 
 ---
 
