@@ -23,7 +23,7 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 |  Team Member  | Lucas Fernando Luciano Serafim                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 |  Team Member  | Mário de Oliveira Silva Júnior       |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarioJunior12)    
 |  Team Member  | Raquel Araújo Lima       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RaquelAraujoL)
-| Team Member   | Tainara Oliveira  |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tainarao479-cmyk))
+| Team Member   | Tainara Oliveira  |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tainarao479-cmyk)
 # Objetivo do Projeto
 O objetivo do projeto é otimizar o planejamento das equipes de fiscalização do IPEM-SP utilizando o histórico de inspeções, por meio de uma solução baseada em Pesquisa Operacional.
 
