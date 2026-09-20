@@ -48,12 +48,13 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Altíssima       | Como coordenador de desenvolvimento, quero que seja feita uma filtragem dos itens a serem utilizados da Base de Dados através da Linguagem Phyton.  | 7          | 1      |
 | 2    | Alta       |Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI.    | 5          | 1      |
-| 3    | Alta       | Como coordenador de desenvolvimento, quero uma análise de possíveis balanceamentos de equipes e de rotas, utilizando de base, os pontos de maior demanda.  | 5          | 2      |
-| 4    | Alta      | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados. a fim de reduzir os custos de tempo, distância e potencial carga horária dos fiscais e motoristas.  |  6     | 2       |                                                        | 5    | Alta     | Como coordenador de desenvolvimento, quero que a plataforma de BI possua mapas das principais rotas utilizadas durante o processo de fiscalização de forma visual e objetiva.  | 7       | 2    |
-| 6   | Média      | Como coordenador de desenvolvimentos, quero que seja possível filtrar as informações de rotas por município.  | 3          | 2      |
+| 3    | Alta       | Como coordenador de desenvolvimento, quero que dentro da plataforma BI seja possível visualizar o tempo consumido por cada fiscal.  | 5          | 2      |
+| 4    | Alta      | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados. a fim de reduzir os custos de tempo dos fiscais.  |  6     | 2       |                            
+| 5    | Alta     | Como coordenador de desenvolvimento, quero que a plataforma de BI possua mapas das principais rotas utilizadas durante o processo de fiscalização de forma visual e objetiva.  | 7       | 3    |
+| 6   | Média      | Como coordenador de desenvolvimentos, quero que seja possível filtrar as informações de rotas por município.  | 3          | 3      |
 | 7    |  Média    | Como coordenador de desenvolvimento, quero que seja possível filtrar as informações de rota por região metropolitana do estado de São Paulo.   | 3   | 3   |
 | 8     | Média   | Como coordenador de desenvolvimento, quero comparar a situação da operação real com a otimizada, mostrando as diferenças de tempo e quilometragem percorrida.  | 4   | 3    |
-| 9    | Baixíssima   | Como coordenador de desenvolvimento, quero que a interface da plataforma de BI seja limpa, clara e objetiva.| 5| 3|
+| 9    | Baixíssima   | Como coordenador de desenvolvimento, quero que seja feito um relatório, que documente tudo que foi realizado ao longo do projeto. | 5| 3|
 
 
 
