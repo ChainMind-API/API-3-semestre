@@ -70,6 +70,10 @@
 - Dados Tratados e Plataforma BI: https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link
 -
 
+https://github.com/user-attachments/assets/01413088-70f2-40d7-b62f-f41a9e666b88
+
+
+
 https://github.com/user-attachments/assets/78446e0a-e4ef-4e06-aa0a-5c5b759adbba
 
 
