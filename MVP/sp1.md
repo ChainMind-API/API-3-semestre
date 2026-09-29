@@ -30,9 +30,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como coordenador de desenvolvimento, quero que seja feita uma filtragem dos itens a serem utilizados da Base de Dados através da Linguagem Phyton.         | Altíssima  | 6   |
-| US2 | Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI.         | Alta     | 4  |
-| US3 | Como coordenador de desenvolvimento, quero uma análise de possíveis balanceamentos de equipes e de rotas, utilizando de base, os pontos de maior demanda.                                                                            | Alta  | 3  |
+| US1 | Como coordenador de desenvolvimento, quero que seja feita uma filtragem dos itens a serem utilizados da Base de Dados através da Linguagem Phyton.         | Altíssima  | 7   |
+| US2 | Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI.         | Alta     | 5  |
+
 
 ---
 
