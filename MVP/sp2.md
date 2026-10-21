@@ -11,10 +11,10 @@
 ## 📝 Descrição da Solução
 > O que será desenvolvido e entregue nesta etapa é o módulo de visualização de tempo da equipe e a otimização de consultas na Plataforma BI.  
 - **Funcionalidades principais incluídas:**
-    Funcionalidade na Plataforma BI para visualizar o tempo consumido por cada fiscal.
+    Visualizar o tempo consumido por cada fiscal.
     Otimização da rotina de dados filtrados para a redução do custo de tempo dos fiscais. 
 - **Limitações conhecidas:**
-  O escopo foca exclusivamente nas métricas essenciais de tempo por fiscal e nos filtros de dados prioritários da plataforma, sem incluir personalizações visuais avançadas ou relatórios de terceiros.
+  Foco exclusivo no registro básico de tempo por fiscal e nos filtros principais do BI
 - **Escopo reduzido (somente o essencial para validar a ideia):** 
  Entrega do painel de acompanhamento de tempo individual por fiscal e a melhoria de performance no carregamento dos dados filtrados na Plataforma BI.
 ---
@@ -58,7 +58,7 @@
 ## 🚀 Próximos Passos
 - **Melhorias planejadas após feedback:** Ajustes no painel de tempo dos fiscais e na precisão dos filtros otimizados.
 - **Ajustes de usabilidade:** Melhorar a interface de visualização do tempo e a rapidez de resposta dos filtros.
-- **Expansão de funcionalidades para próximo incremento:** Adicionar novas métricas de equipa e estender a otimização a outros dados da plataforma.
+- **Expansão de funcionalidades para próximo incremento:** Adicionar novas métricas da equipe e estender a otimização a outros dados da plataforma.
 
 ---
 
