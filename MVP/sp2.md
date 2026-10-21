@@ -36,8 +36,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Módulo de visualização do tempo consumido por cada fiscal na Plataforma BI                       | Concluído|
-| 02     | Otimização dos dados filtrados para redução do tempo dos fiscais                          | Em andamento |
+| 02     | Como cordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no power BI.                      | Concluído|
+| 03     | Como cordenador de desenvolvimento, quero comparar a situação da operação real com a otimizada, mostrando as diferenças de tempo e quilometragem percorrida.                         | Em andamento |
 
 ---
 
