@@ -68,7 +68,6 @@
 ## 📂 Anexos / Evidências
 - Backlog no Jira: https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog
 - Dados Tratados e Plataforma BI: https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link
--
 
 https://github.com/user-attachments/assets/01413088-70f2-40d7-b62f-f41a9e666b88
 
