@@ -36,7 +36,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | Como cordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no power BI.                      | Concluído|
+| 01     | Como cordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no power BI.                      | Concluído|
 | 03     | Como cordenador de desenvolvimento, quero comparar a situação da operação real com a otimizada, mostrando as diferenças de tempo e quilometragem percorrida.                         | Em andamento |
 
 ---
