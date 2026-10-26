@@ -65,4 +65,5 @@
 ## 📂 Anexos / Evidências
 - Backlog no Jira: https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog
 - Plataforma BI: https://centropaulasouza-my.sharepoint.com/:u:/r/personal/joao_guedes_aluno_cps_sp_gov_br/Documents/Dashboards/3%C2%B0%20Projeto%20API%20-%20Dashboard%20Sprint%202.pbix?d=w8207dcf786d442d493b5efa5f03ed6c7&csf=1&web=1&e=RdRpkj
+- Relatório da Sprint 2: https://docs.google.com/document/d/1yRXWBPgqIhTUv6hJKki73SZycNhmnoPB/edit?usp=drive_link&ouid=110864641096229813256&rtpof=true&sd=true
 - Todos as informações do projeto: https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link
