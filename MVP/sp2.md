@@ -2,9 +2,9 @@
 
 ## 🎯 Objetivo do MVP
 > O propósito deste MVP é implementar na Plataforma BI a visualização do tempo consumido por cada fiscal e aplicar a otimização nos dados filtrados.
-- **Qual problema resolve?** A ausência de visibilidade sobre o tempo gasto por cada fiscal e o alto custo de tempo gerado por dados filtrados sem otimização na Plataforma BI.
-- **Qual hipótese será validada?** Exibir o tempo consumido por cada fiscal e otimizar a filtragem de dados na Plataforma BI reduzirá os custos de tempo e aumentará a eficiência do coordenador e dos fiscais.
-- **Qual valor será entregue ao usuário final?**  Permitir que o coordenador de desenvolvimento acompanhe o tempo consumido pela equipe de fiscais e obtenha consultas de dados filtrados mais ágeis, reduzindo custos de tempo.
+- **Qual problema resolve?** A ausência de visibilidade sobre o tempo gasto por cada fiscal e o alto custo de tempo gerado por dados filtrados sem otimização.
+- **Qual hipótese será validada?** Exibir o tempo consumido por cada fiscal e otimizar e filtrar dados reduzirá os custos de tempo e aumentará a eficiência do coordenador e dos fiscais.
+- **Qual valor será entregue ao usuário final?**  Permitir que o coordenador de desenvolvimento acompanhe o tempo consumido pela equipe de fiscais e obtenha consultas mais ágeis
 
 ---
 
@@ -12,7 +12,7 @@
 > O que será desenvolvido e entregue nesta etapa é o módulo de visualização de tempo da equipe e a otimização de consultas na Plataforma BI.  
 - **Funcionalidades principais incluídas:**
     Visualizar o tempo consumido por cada fiscal.
-    Otimização da rotina de dados filtrados para a redução do custo de tempo dos fiscais. 
+    Otimização e filtragem de dados para uma análise mais ágil. 
 - **Limitações conhecidas:**
   Foco exclusivo no registro básico de tempo por fiscal e nos filtros principais do BI
 - **Escopo reduzido (somente o essencial para validar a ideia):** 
@@ -36,22 +36,22 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Como cordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no power BI.                      | Concluído|
+| 01     | Como cordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no power BI.                      | Concluída |
 | 03     | Como cordenador de desenvolvimento, quero comparar a situação da operação real com a otimizada, mostrando as diferenças de tempo e quilometragem percorrida.                         | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o coordenador de desenvolvimento visualize o tempo consumido por cada fiscal na Plataforma BI.  
+- A Plataforma deve permitir que o coordenador visualize o tempo consumido por cada fiscal.  
 - O sistema deve registrar a redução no tempo de carregamento dos dados filtrados.  
-- **Métricas coletadas:** Tempo de resposta do carregamento dos filtros e tempo médio consumido por fiscal.  
+- **Métricas coletadas:** Tempo de resposta do carregamento dos dados e tempo médio consumido por fiscal.  
 
 ---
 
 ## 📈 Métricas de Validação
 - **Número de usuários que testaram o MVP:** O coordenador de desenvolvimento e a equipe de fiscais impactada pela otimização dos dados filtrados.
 - **Feedback qualitativo (positivo/negativo):** Avaliação do coordenador de desenvolvimento sobre a facilidade e clareza em visualizar o tempo consumido por cada fiscal dentro da Plataforma BI. Avaliação da equipe de fiscais quanto à percepção de ganho de agilidade ao aplicar e consultar dados filtrados no sistema. 
-- **Redução no tempo de consulta:** Meta de diminuir em 30% a 50% o tempo de processamento dos dados filtrados no BI. Redução no custo de tempo dos fiscais: Economia estimada em horas semanais por fiscal, otimizando a rotina e a visualização do coordenador.  
+- **Redução no tempo de consulta:** Meta de diminuir em 30% a 50% o tempo de processamento dos dados filtrados no BI. Redução no custo de tempo dos fiscais: Economia estimada em horas semanais por fiscal, otimizando a rotina e a visualização do coordenador.
 
 ---
 
@@ -64,6 +64,6 @@
 
 ## 📂 Anexos / Evidências
 - Backlog no Jira: https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog
-- Plataforma BI: https://centropaulasouza-my.sharepoint.com/:u:/r/personal/joao_guedes_aluno_cps_sp_gov_br/Documents/Dashboards/3%C2%B0%20Projeto%20API%20-%20Dashboard%20Sprint%202.pbix?d=w8207dcf786d442d493b5efa5f03ed6c7&csf=1&web=1&e=RdRpkj
+- Plataforma BI: 
 - Relatório da Sprint 2: https://docs.google.com/document/d/1GdNmVBKPEhaqeb0DfI-KmObhml3KVrVe/edit?usp=drive_link&ouid=110864641096229813256&rtpof=true&sd=true
 - Todos as informações do projeto: https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link
