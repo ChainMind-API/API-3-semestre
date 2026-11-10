@@ -29,8 +29,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como coordenador de desenvolvimento, quero que dentro da Plataforma BI seja possível visualizar o tempo consumido para cada fiscal.         | Alta       | 5 pontos   |
-| US2 | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados para eduzir os custos de tempo dos fiscais.         | Média      | 3 pontos   |
+| US3 | Como coordenador de desenvolvimento, quero que dentro da Plataforma BI seja possível visualizar o tempo consumido para cada fiscal.         | Alta       | 5 pontos   |
+| US4 | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados para eduzir os custos de tempo dos fiscais.         | Média      | 3 pontos   |
 
 ---
 
