@@ -62,7 +62,13 @@
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+## 📂 Anexos / Evidências  
+- Vídeo (MVP):
+
+- Backlog no Jira:
+   
+- Plataforma BI:
+
+- Relatório da Sprint 3:
+
+- Todos as informações do projeto:  
