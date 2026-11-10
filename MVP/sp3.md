@@ -36,8 +36,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados, a fim de reduzir os custos de tempo dos fiscais.  | Concluído|
+| 01     | Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI  | Em andamento |
 
 ---
 
@@ -56,9 +56,9 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Melhorias planejadas após feedback: Acompanhamento do número de utilizadores, recolha de feedback qualitativo sobre a ferramenta e análise de indicadores de adesão e desempenho operacional.  
+- Ajustes de usabilidade: Otimização na velocidade de carregamento dos mapas e simplificação da navegação nos filtros geográficos por município e região metropolitana. 
+- Expansão de funcionalidades para próximo incremento: Ajustes de usabilidade, melhorias baseadas no feedback da equipa e expansão futura de novas funcionalidades e rotas.  
 
 ---
 
