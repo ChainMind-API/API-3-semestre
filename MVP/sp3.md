@@ -42,9 +42,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize mapas de rotas de fiscalização, aplique filtros geográficos no estado de São Paulo e compare o cenário real com o otimizado (tempo e quilometragem).  
+- O sistema deve registrar as seleções de filtros geográficos e as consultas comparativas de desempenho feitas.  
+- Métricas coletadas: Tempo de resposta/carregamento dos dados e taxa de uso dos relatórios de rotas.  
 
 ---
 
