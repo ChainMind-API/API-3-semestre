@@ -49,9 +49,9 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: Quantidade de membros da coordenação de desenvolvimento e analistas que utilizaram a plataforma de BI para análise de rotas.  
+- Feedback qualitativo: Avaliação da clareza visual dos mapas, utilidade dos filtros por município e região metropolitana de São Paulo, e eficácia dos comparativos. 
+- Indicadores de negócio: Taxa de adesão da equipe à plataforma e validação prática dos ganhos de redução de tempo e quilometragem na operação.  
 
 ---
 
