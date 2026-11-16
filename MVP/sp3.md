@@ -65,10 +65,11 @@
 ## 📂 Anexos / Evidências  
 - Vídeo (MVP):
 
-- Backlog no Jira:
+- Backlog no Jira: [Backlog do Jira](https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog)
    
 - Plataforma BI:
 
 - Relatório da Sprint 3:
 
-- Todos as informações do projeto:  
+- Todos as informações do projeto: [Google Drive](https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link)
+  
