@@ -29,7 +29,7 @@
 | US6   | Como coordenador de desenvolvimento, quero que essas rotas analisadas sejam otimizadas através de um sistema exato que consiga ser comprovado e possível de ser realizado. Além disso, a metodologia por trás desse sistema também deve ser explicada. | Alta | 3  |        
 | US7    |  Como coordenador de desenvolvimento, quero que a rota otimizada também esteja disponível na Plataforma BI, utilizando mapas, além de cartões que mostrem a kilometragem e o tempo gasto em cada rota, para fim de análise comparativa    | Média | 3   |
 | US8     | Como coordenador de desenvolvimento, quero que seja feito um balanceamento na carga horária dos fiscais, mostrando agendas e quais cidades devem ser atendidas por cada fiscal, a fim de melhorar a organização da equipe.   | Média | 4   |
-| US9 |Como coordenador de desenvolvimento, quero que seja feito um relatório, que documente tudo que foi realizado ao longo do projeto.        | Baixíssima | 5 pontos   |
+| US9 |Como coordenador de desenvolvimento, quero que seja feito um relatório, que documente tudo que foi realizado ao longo do projeto.        | Baixíssima | 5   |
 
 ---
 
