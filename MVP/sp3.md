@@ -67,7 +67,7 @@
 
 - Backlog no Jira: [Backlog do Jira](https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog)
    
-- Plataforma BI:
+- Plataforma BI [Plataforma BI](https://app.powerbi.com/view?r=eyJrIjoiZmM4OTc5OGQtYTMyZS00OGEwLTk5MjMtNGE2NDA5ZjBkZGMwIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 
 - Relatório da Sprint 3:
 
