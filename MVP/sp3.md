@@ -37,7 +37,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 02     | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados, a fim de reduzir os custos de tempo dos fiscais.  | Concluído|
-| 01     | Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI  | Em andamento |
+| 01     | Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI  | Concluída|
 
 ---
 
