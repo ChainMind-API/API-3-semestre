@@ -2,22 +2,22 @@
 
 ## 🎯 Objetivo do MVP
 > O MVP centraliza a visualização de rotas de fiscalização em mapas com filtros regionais de São Paulo e compara o cenário real com o otimizado, validando a eficácia do BI na tomada de decisão.  
-- Qual problema resolve? Elimina a falta de visibilidade espacial das rotas de fiscalização e a ausência de métricas comparativas entre a operação real e a otimizada. 
-- Qual hipótese será validada? O uso de mapas georreferenciados com filtros geográficos e comparativos de desempenho acelera a identificação de ineficiências logísticas.  
-- Qual valor será entregue ao usuário final? Oferece agilidade na tomada de decisão, clareza sobre os ganhos de tempo e quilometragem, e rastreabilidade documental do projeto. 
+- **Qual problema resolve?** Elimina a falta de visibilidade espacial das rotas de fiscalização e a ausência de métricas comparativas entre a operação real e a otimizada. 
+- **Qual hipótese será validada?** O uso de mapas georreferenciados com filtros geográficos e comparativos de desempenho acelera a identificação de ineficiências logísticas.  
+- **Qual valor será entregue ao usuário final?** Oferece agilidade na tomada de decisão, clareza sobre os ganhos de tempo e quilometragem, e rastreabilidade documental do projeto. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Plataforma de BI com mapas de rotas, filtros geográficos em São Paulo, comparativo de desempenho (real vs. otimizado) e relatório do projeto.  
-- Funcionalidades principais incluídas: Plataforma de BI com mapas visuais das rotas de fiscalização, filtros por município e região metropolitana de São Paulo, comparativo entre a operação real e a otimizada (tempo e quilometragem).  
-- Limitações conhecidas: Foco restrito às rotas e regiões metropolitanas do estado de São Paulo mapeadas no escopo, sem automações complexas em tempo real ou integração com sistemas externos de rastreamento ao vivo. 
-- Escopo reduzido: Restrito estritamente aos recursos essenciais para validar a visualização espacial, filtros geográficos e ganhos comparativos da otimização logística. 
+> Plataforma de BI com mapas de rotas, comparativo de desempenho (real vs. otimizado) e relatório do projeto.  
+- Funcionalidades principais incluídas: Plataforma de BI com mapas visuais das rotas de fiscalização, amostragem de demanda e balanças de carga horária, comparativo entre a operação real e a otimizada (tempo e quilometragem).
+- Limitações conhecidas: Falta de automações complexas em tempo real ou integração com sistemas externos de rastreamento ao vivo. 
+- Escopo reduzido: Restrito estritamente aos recursos essenciais para validar a visualização espacial e ganhos comparativos da otimização logística. 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **(Coordenador):** Precisa de mapas visuais, filtros por região e comparativos de desempenho (tempo/quilometragem) para eliminar a falta de visibilidade espacial e justificar melhorias operacionais.  
+- **(Coordenador):** Precisa de mapas visuais e comparativos de desempenho (tempo/quilometragem) para eliminar a falta de visibilidade espacial e justificar melhorias operacionais.  
 - **(Analista):** Precisa estruturar bases e consolidar relatórios para sanar a dispersão de dados e centralizar a documentação de todas as etapas do projeto.  
 
 ---
