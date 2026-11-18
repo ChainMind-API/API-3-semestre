@@ -6,7 +6,6 @@ Desenvolver uma solução fundamentada em Pesquisa Operacional para otimizar o p
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
