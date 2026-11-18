@@ -41,6 +41,7 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 * Microsoft Word
 * WhatsApp
 * Python (Colab)
+* Claude AI
   
 # Product Backlog
 
