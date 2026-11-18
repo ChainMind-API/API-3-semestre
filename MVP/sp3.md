@@ -57,7 +57,7 @@
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback: Acompanhamento do número de utilizadores, recolha de feedback qualitativo sobre a ferramenta e análise de indicadores de adesão e desempenho operacional.  
-- Ajustes de usabilidade: Otimização na velocidade de carregamento dos mapas e simplificação da navegação nos filtros geográficos por município e região metropolitana. 
+- Ajustes de usabilidade: Otimização na velocidade de carregamento dos mapas.
 - Expansão de funcionalidades para próximo incremento: Ajustes de usabilidade, melhorias baseadas no feedback da equipa e expansão futura de novas funcionalidades e rotas.  
 
 ---
