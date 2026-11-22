@@ -62,8 +62,8 @@
 
 ---
 
-## 📂 Anexos / Evidências  
-- Vídeo (MVP):
+## 📂 Anexos / Evidências 
+- Vídeo (MVP): [Youtube](https://youtu.be/nLK3W4LNGYs)
 
 - Código em Python: [Google Colab](https://colab.research.google.com/drive/1VNweHcbL9HMMqe0OnENBzHy7RJsiKgML?usp=sharing)
 
