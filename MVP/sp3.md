@@ -71,7 +71,7 @@
    
 - Plataforma BI [Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZmM4OTc5OGQtYTMyZS00OGEwLTk5MjMtNGE2NDA5ZjBkZGMwIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 
-- Relatório da Sprint 3:
+- Relatório da Sprint 3: [Google Drive](https://drive.google.com/file/d/1bsDv7lz7Zn8isrHLQhvwD5sNQAGrgmlE/view?usp=sharing)
 
 - Dados e informações do projeto: [Google Drive](https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link)
   
